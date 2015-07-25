@@ -1,0 +1,270 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1063, 622}}";
+			sepNavSelRange = "{94, 0}";
+			sepNavVisRange = "{0, 96}";
+			sepNavWindowFrame = "{{15, 0}, {1122, 773}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecture = i386;
+		activeBuildConfigurationName = Release;
+		activeExecutable = BCA143400CE2BD0D00AB8851 /* Wiitar */;
+		activeTarget = 8D1107260486CEB800E47090 /* Wiitar */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Wiitar */,
+		);
+		codeSenseManager = BCA143470CE2BD1A00AB8851 /* Code sense */;
+		executables = (
+			BCA143400CE2BD0D00AB8851 /* Wiitar */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					131,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					203,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 223951699;
+			PBXWorkspaceStateSaveDate = 223951699;
+		};
+		perUserProjectItems = {
+			BC11DB450D593D7B00C121F0 /* PBXTextBookmark */ = BC11DB450D593D7B00C121F0 /* PBXTextBookmark */;
+			BC11DB470D593D7B00C121F0 /* PBXTextBookmark */ = BC11DB470D593D7B00C121F0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = BCA143460CE2BD1A00AB8851 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 195}}";
+			sepNavSelRange = "{83, 13}";
+			sepNavVisRange = "{0, 249}";
+			sepNavWindowFrame = "{{15, 0}, {1122, 773}}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Wiitar_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1063, 645}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 143}";
+			sepNavWindowFrame = "{{15, 0}, {1122, 773}}";
+		};
+	};
+	8D1107260486CEB800E47090 /* Wiitar */ = {
+		activeExec = 0;
+		executables = (
+			BCA143400CE2BD0D00AB8851 /* Wiitar */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1063, 622}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 842}";
+			sepNavWindowFrame = "{{15, 0}, {1122, 773}}";
+		};
+	};
+	BC11DB450D593D7B00C121F0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BC11DB460D593D7B00C121F0 /* WWindowController.h */;
+		rLen = 0;
+		rLoc = 2147483647;
+		rType = 0;
+	};
+	BC11DB460D593D7B00C121F0 /* WWindowController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = WWindowController.h;
+		path = "/Users/kevingessner/Library/Mail Downloads/WWindowController.h";
+		sourceTree = "<absolute>";
+	};
+	BC11DB470D593D7B00C121F0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BC11DB480D593D7B00C121F0 /* WWindowController.h */;
+		name = "WWindowController.h: 1";
+		rLen = 1670;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1428;
+		vrLoc = 3;
+	};
+	BC11DB480D593D7B00C121F0 /* WWindowController.h */ = {
+		isa = PBXFileReference;
+		name = WWindowController.h;
+		path = "/Users/kevingessner/Library/Mail Downloads/WWindowController.h";
+		sourceTree = "<absolute>";
+	};
+	BCA143400CE2BD0D00AB8851 /* Wiitar */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Wiitar;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	BCA143460CE2BD1A00AB8851 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	BCA143470CE2BD1A00AB8851 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	BCA143490CE2BDB200AB8851 /* WWindowController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1063, 793}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1390}";
+			sepNavVisRect = "{{0, 0}, {1083, 644}}";
+			sepNavWindowFrame = "{{84, 5}, {1122, 773}}";
+		};
+	};
+	BCA1434A0CE2BDB200AB8851 /* WWindowController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1063, 4004}}";
+			sepNavSelRange = "{7200, 0}";
+			sepNavVisRange = "{0, 1114}";
+			sepNavVisRect = "{{0, 911}, {1083, 644}}";
+			sepNavWindowFrame = "{{84, 5}, {1122, 773}}";
+		};
+	};
+	BCA143CA0CE2C69800AB8851 /* iGetKeys.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1063, 3575}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{7220, 1090}";
+			sepNavWindowFrame = "{{15, 0}, {1122, 773}}";
+		};
+	};
+	BCA143CB0CE2C69800AB8851 /* iGetKeys.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1063, 2028}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{3124, 1754}";
+			sepNavWindowFrame = "{{15, 0}, {1122, 773}}";
+		};
+	};
+	BCA145050CE3660000AB8851 /* WiiRemote.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1388, 2912}}";
+			sepNavSelRange = "{4451, 0}";
+			sepNavVisRange = "{0, 1194}";
+			sepNavVisRect = "{{0, 0}, {1083, 644}}";
+			sepNavWindowFrame = "{{15, 0}, {1122, 773}}";
+		};
+	};
+	BCA145060CE3660000AB8851 /* WiiRemote.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {817, 18839}}";
+			sepNavSelRange = "{6515, 49}";
+			sepNavVisRange = "{6417, 198}";
+			sepNavVisRect = "{{0, 14780}, {1083, 644}}";
+			sepNavWindowFrame = "{{15, 0}, {1122, 773}}";
+		};
+	};
+	BCA145070CE3660000AB8851 /* WiiRemoteDiscovery.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 572}}";
+			sepNavSelRange = "{107, 17}";
+			sepNavVisRange = "{0, 297}";
+			sepNavWindowFrame = "{{15, 0}, {1122, 773}}";
+		};
+	};
+	BCA1450A0CE3660000AB8851 /* WiiRemotePrivate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1063, 780}}";
+			sepNavSelRange = "{1276, 0}";
+			sepNavVisRange = "{0, 1473}";
+			sepNavVisRect = "{{0, 136}, {1083, 644}}";
+			sepNavWindowFrame = "{{19, 0}, {1122, 773}}";
+		};
+	};
+	BCC35BF70CEF8E0C0084CDA9 /* Credits.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1063, 622}}";
+			sepNavSelRange = "{447, 0}";
+			sepNavVisRange = "{0, 447}";
+			sepNavWindowFrame = "{{15, 0}, {1122, 773}}";
+		};
+	};
+}

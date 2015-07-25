@@ -1,0 +1,6 @@
+build
+.DS_Store
+Wiitar.xcodeproj/**/*userdata*
+Wiitar.xcodeproj/project.xcworkspace
+*.swp
+*~
